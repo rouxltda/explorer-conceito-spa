@@ -31,7 +31,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto "Ceceitos de SPA" é um projeto desenvolvido com a finalidade de entender como funciona uma SPA.
 
-- [Acesse o projeto finalizado, online](https://rouxltda.github.io/explorer-conceito-spa)
+- Para rodar basta usar o comando <code>npm install</code>
+- E depois o comando <code>npm start</code>
 
 ## :memo: Licença
 
