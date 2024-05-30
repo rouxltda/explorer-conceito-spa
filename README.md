@@ -15,10 +15,6 @@ Projeto desenvolvido durante o curso Full Stack da Rocketseat. <br/>
 
 <br>
 
-<p align="center">
-  <img alt="print do projeto" src=".github/preview.png" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
